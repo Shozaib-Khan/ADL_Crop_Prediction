@@ -98,13 +98,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 📫 Contact
-
-* **Email**: [equihealthh@gmail.com](mailto:equihealthh@gmail.com)
-* **GitHub**: [https://github.com/Shozaib-Khan](https://github.com/Shozaib-Khan)
-
----
-
 ## 🌱 Future Enhancements
 
 * Add charts to compare model predictions
