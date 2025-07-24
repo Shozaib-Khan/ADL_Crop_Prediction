@@ -53,7 +53,7 @@ This system is built using:
    ```bash
    git clone https://github.com/your-username/crop-recommendation-system.git
    cd crop-recommendation-system
-````
+``
 
 2. Install dependencies
 
