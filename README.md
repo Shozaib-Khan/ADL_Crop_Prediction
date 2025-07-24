@@ -1,6 +1,3 @@
-Of course! Here's the **entire README** written **completely in Markdown format**:
-
-````markdown
 # 🌾 Crop Recommendation System
 
 An intelligent crop recommendation web application that uses machine learning to suggest the best crops based on soil and climate conditions. Users can input values such as nitrogen, phosphorus, temperature, humidity, and rainfall to receive accurate crop predictions from trained models.
